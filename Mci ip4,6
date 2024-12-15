@@ -6,3 +6,4 @@ warp://p1@162.159.192.104:1387?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mciip4
 warp://p1@162.159.192.36:8742?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mciip4
 warp://p1@[2606:4700:d0::1190:c594:b859:adcd]:1010?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mciip6
 warp://p1@[2606:4700:d0::1805:5d60:5c24:89e0]:1010?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mciip6
+warp://p1@[2606:4700:d0::580d:5e71:3417:4b2d]:945?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mciip6
